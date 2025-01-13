@@ -1,0 +1,18 @@
+p {
+    font-size: 30px;
+    color: orangered;
+}
+
+h1 {
+    font-size: 50px;
+    color: purple;
+    font-weight: bold;
+}
+
+main {
+    background-color: aquamarine;
+}
+
+body {
+    background-color: brown;
+}
