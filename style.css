@@ -1,18 +1,26 @@
 p {
     font-size: 30px;
-    color: orangered;
+    color: white;
 }
 
 h1 {
     font-size: 50px;
-    color: purple;
+    color: #233CE6;
     font-weight: bold;
+    background-color: white;
+}
+
+a {
+    font-size: 25px;
+    background-color: white;
+    margin-right: 50px;
+
 }
 
 main {
-    background-color: aquamarine;
+    background-color: #08124A;
 }
 
 body {
-    background-color: brown;
+    background-color: #8A4E2E;
 }
